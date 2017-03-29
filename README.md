@@ -24,3 +24,5 @@ Inspiriert von:
 
 Abhängigkeiten:
 - Ubuntu Font / http://font.ubuntu.com/
+- Scribus / https://www.scribus.net/
+- GIMP / https://www.gimp.org/
