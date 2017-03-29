@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCRIBUSUTF8NEW Version="1.4.6">
+    <DOCUMENT ANZPAGES="1" PAGEWIDTH="595.28" PAGEHEIGHT="841.89" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" PRESET="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" ORIENTATION="0" PAGESIZE="A4" FIRSTNUM="1" BOOK="0" AUTOSPALTEN="1" ABSTSPALTEN="11" UNITS="0" DFONT="Arial Regular" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" AUTHOR="" COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="" TITLE="" SUBJECT="" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="20" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="2" HCMS="1" DPSo="1" DPSFo="0" DPuse="1" DPgam="0" DPbla="1" DPMo="S241HL_WHQL" DPPr="Fogra27L CMYK Coated Press" DPIn="CineonLog M " DPInCMYK="Fogra27L CMYK Coated Press" DPIn2="CineonLog M " DPIn3="Fogra27L CMYK Coated Press" DISc="1" DIIm="0" ALAYER="0" LANGUAGE="English" MINWORDLEN="3" HYCOUNT="2" AUTOMATIC="0" AUTOCHECK="0" GUIDELOCK="0" SnapToGuides="0" SnapToGrid="0" MINGRID="20" MAJGRID="100" SHOWGRID="0" SHOWGUIDES="1" showcolborders="1" SHOWFRAME="1" SHOWLAYERM="0" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWControl="0" SHOWLINK="0" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.707" POLYR="0" POLYCUR="0" POLYFD="0" POLYS="0" AutoSave="1" AutoSaveTime="600000" ScratchBottom="20" ScratchLeft="100" ScratchRight="100" ScratchTop="20" GapHorizontal="0" GapVertical="40" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="Black" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" MAGMIN="10" MAGMAX="3200" MAGSTEP="200" CPICT="None" PICTSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="10" dispY="10" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" GuideZ="10" BACKG="1" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PostScript">
+        <CheckProfile Name="PDF 1.3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
+        <CheckProfile Name="PDF 1.4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
+        <CheckProfile Name="PDF 1.5" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
+        <CheckProfile Name="PDF/X-1a" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
+        <CheckProfile Name="PDF/X-3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
+        <CheckProfile Name="PostScript" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
+        <COLOR NAME="Black" CMYK="#000000ff" Spot="0" Register="0"/>
+        <COLOR NAME="Registration" CMYK="#ffffffff" Spot="0" Register="1"/>
+        <COLOR NAME="White" CMYK="#00000000" Spot="0" Register="0"/>
+        <COLOR NAME="amber 100" CMYK="#00114c00" Spot="0" Register="0"/>
+        <COLOR NAME="amber 200" CMYK="#001e7c00" Spot="0" Register="0"/>
+        <COLOR NAME="amber 300" CMYK="#0028af00" Spot="0" Register="0"/>
+        <COLOR NAME="amber 400" CMYK="#0035d600" Spot="0" Register="0"/>
+        <COLOR NAME="amber 50" CMYK="#00071e00" Spot="0" Register="0"/>
+        <COLOR NAME="amber 500" CMYK="#003df700" Spot="0" Register="0"/>
+        <COLOR NAME="amber 600" CMYK="#004cfe00" Spot="0" Register="0"/>
+        <COLOR NAME="amber 700" CMYK="#005efe00" Spot="0" Register="0"/>
+        <COLOR NAME="amber 800" CMYK="#0070fe00" Spot="0" Register="0"/>
+        <COLOR NAME="amber 900" CMYK="#008efe00" Spot="0" Register="0"/>
+        <COLOR NAME="amber a100" CMYK="#00197f00" Spot="0" Register="0"/>
+        <COLOR NAME="amber a200" CMYK="#0028bf00" Spot="0" Register="0"/>
+        <COLOR NAME="amber a400" CMYK="#003afe00" Spot="0" Register="0"/>
+        <COLOR NAME="amber a700" CMYK="#0054fe00" Spot="0" Register="0"/>
+        <COLOR NAME="blue 100" CMYK="#3f1e0005" Spot="0" Register="0"/>
+        <COLOR NAME="blue 200" CMYK="#6b300005" Spot="0" Register="0"/>
+        <COLOR NAME="blue 300" CMYK="#9642000a" Spot="0" Register="0"/>
+        <COLOR NAME="blue 400" CMYK="#ba54000a" Spot="0" Register="0"/>
+        <COLOR NAME="blue 50" CMYK="#190a0002" Spot="0" Register="0"/>
+        <COLOR NAME="blue 500" CMYK="#db60000c" Spot="0" Register="0"/>
+        <COLOR NAME="blue 600" CMYK="#dd680019" Spot="0" Register="0"/>
+        <COLOR NAME="blue 700" CMYK="#e070002d" Spot="0" Register="0"/>
+        <COLOR NAME="blue 800" CMYK="#e277003f" Spot="0" Register="0"/>
+        <COLOR NAME="blue 900" CMYK="#ea8e005e" Spot="0" Register="0"/>
+        <COLOR NAME="blue a100" CMYK="#7c4f0000" Spot="0" Register="0"/>
+        <COLOR NAME="blue a200" CMYK="#ba750000" Spot="0" Register="0"/>
+        <COLOR NAME="blue a400" CMYK="#d6870000" Spot="0" Register="0"/>
+        <COLOR NAME="blue a700" CMYK="#d69e0000" Spot="0" Register="0"/>
+        <COLOR NAME="blue-grey 100" CMYK="#0f050023" Spot="0" Register="0"/>
+        <COLOR NAME="blue-grey 200" CMYK="#1c0a003a" Spot="0" Register="0"/>
+        <COLOR NAME="blue-grey 300" CMYK="#2b0f0051" Spot="0" Register="0"/>
+        <COLOR NAME="blue-grey 400" CMYK="#3a140063" Spot="0" Register="0"/>
+        <COLOR NAME="blue-grey 50" CMYK="#0502000c" Spot="0" Register="0"/>
+        <COLOR NAME="blue-grey 500" CMYK="#4f190072" Spot="0" Register="0"/>
+        <COLOR NAME="blue-grey 600" CMYK="#4f190084" Spot="0" Register="0"/>
+        <COLOR NAME="blue-grey 700" CMYK="#4f19009b" Spot="0" Register="0"/>
+        <COLOR NAME="blue-grey 800" CMYK="#4c1900af" Spot="0" Register="0"/>
+        <COLOR NAME="blue-grey 900" CMYK="#511c00c6" Spot="0" Register="0"/>
+        <COLOR NAME="brown 100" CMYK="#000c1128" Spot="0" Register="0"/>
+        <COLOR NAME="brown 200" CMYK="#00192142" Spot="0" Register="0"/>
+        <COLOR NAME="brown 300" CMYK="#0028355e" Spot="0" Register="0"/>
+        <COLOR NAME="brown 400" CMYK="#00384c72" Spot="0" Register="0"/>
+        <COLOR NAME="brown 50" CMYK="#0005070f" Spot="0" Register="0"/>
+        <COLOR NAME="brown 500" CMYK="#004c6687" Spot="0" Register="0"/>
+        <COLOR NAME="brown 600" CMYK="#004c6691" Spot="0" Register="0"/>
+        <COLOR NAME="brown 700" CMYK="#004f68a3" Spot="0" Register="0"/>
+        <COLOR NAME="brown 800" CMYK="#005468af" Spot="0" Register="0"/>
+        <COLOR NAME="brown 900" CMYK="#005e70c1" Spot="0" Register="0"/>
+        <COLOR NAME="cyan 100" CMYK="#4207000c" Spot="0" Register="0"/>
+        <COLOR NAME="cyan 200" CMYK="#720c0014" Spot="0" Register="0"/>
+        <COLOR NAME="cyan 300" CMYK="#a814001e" Spot="0" Register="0"/>
+        <COLOR NAME="cyan 400" CMYK="#d3160026" Spot="0" Register="0"/>
+        <COLOR NAME="cyan 50" CMYK="#19020005" Spot="0" Register="0"/>
+        <COLOR NAME="cyan 500" CMYK="#fe1c002b" Spot="0" Register="0"/>
+        <COLOR NAME="cyan 600" CMYK="#fe1c003d" Spot="0" Register="0"/>
+        <COLOR NAME="cyan 700" CMYK="#fe190059" Spot="0" Register="0"/>
+        <COLOR NAME="cyan 800" CMYK="#fe140070" Spot="0" Register="0"/>
+        <COLOR NAME="cyan 900" CMYK="#fe0a009b" Spot="0" Register="0"/>
+        <COLOR NAME="cyan a100" CMYK="#7a000000" Spot="0" Register="0"/>
+        <COLOR NAME="cyan a200" CMYK="#e8000000" Spot="0" Register="0"/>
+        <COLOR NAME="cyan a400" CMYK="#fe190000" Spot="0" Register="0"/>
+        <COLOR NAME="cyan a700" CMYK="#fe21002b" Spot="0" Register="0"/>
+        <COLOR NAME="deep-orange 100" CMYK="#00334200" Spot="0" Register="0"/>
+        <COLOR NAME="deep-orange 200" CMYK="#00546d00" Spot="0" Register="0"/>
+        <COLOR NAME="deep-orange 300" CMYK="#00759800" Spot="0" Register="0"/>
+        <COLOR NAME="deep-orange 400" CMYK="#008ebc00" Spot="0" Register="0"/>
+        <COLOR NAME="deep-orange 50" CMYK="#00111405" Spot="0" Register="0"/>
+        <COLOR NAME="deep-orange 500" CMYK="#00a8dd00" Spot="0" Register="0"/>
+        <COLOR NAME="deep-orange 600" CMYK="#00aae00a" Spot="0" Register="0"/>
+        <COLOR NAME="deep-orange 700" CMYK="#00ade219" Spot="0" Register="0"/>
+        <COLOR NAME="deep-orange 800" CMYK="#00afe526" Spot="0" Register="0"/>
+        <COLOR NAME="deep-orange 900" CMYK="#00b7ef3f" Spot="0" Register="0"/>
+        <COLOR NAME="deep-orange a100" CMYK="#00607f00" Spot="0" Register="0"/>
+        <COLOR NAME="deep-orange a200" CMYK="#0091bf00" Spot="0" Register="0"/>
+        <COLOR NAME="deep-orange a400" CMYK="#00c1fe00" Spot="0" Register="0"/>
+        <COLOR NAME="deep-orange a700" CMYK="#00ccfe21" Spot="0" Register="0"/>
+        <COLOR NAME="deep-purple 100" CMYK="#19280016" Spot="0" Register="0"/>
+        <COLOR NAME="deep-purple 200" CMYK="#2d470023" Spot="0" Register="0"/>
+        <COLOR NAME="deep-purple 300" CMYK="#446d0033" Spot="0" Register="0"/>
+        <COLOR NAME="deep-purple 400" CMYK="#598c003d" Spot="0" Register="0"/>
+        <COLOR NAME="deep-purple 50" CMYK="#0a0f000a" Spot="0" Register="0"/>
+        <COLOR NAME="deep-purple 500" CMYK="#70ad0047" Spot="0" Register="0"/>
+        <COLOR NAME="deep-purple 600" CMYK="#77b2004f" Spot="0" Register="0"/>
+        <COLOR NAME="deep-purple 700" CMYK="#84ba0056" Spot="0" Register="0"/>
+        <COLOR NAME="deep-purple 800" CMYK="#91c1005e" Spot="0" Register="0"/>
+        <COLOR NAME="deep-purple 900" CMYK="#a8d1006d" Spot="0" Register="0"/>
+        <COLOR NAME="deep-purple a100" CMYK="#4c770000" Spot="0" Register="0"/>
+        <COLOR NAME="deep-purple a200" CMYK="#82b20000" Spot="0" Register="0"/>
+        <COLOR NAME="deep-purple a400" CMYK="#98e00000" Spot="0" Register="0"/>
+        <COLOR NAME="deep-purple a700" CMYK="#93fe0014" Spot="0" Register="0"/>
+        <COLOR NAME="green 100" CMYK="#21002119" Spot="0" Register="0"/>
+        <COLOR NAME="green 200" CMYK="#3a003828" Spot="0" Register="0"/>
+        <COLOR NAME="green 300" CMYK="#59005638" Spot="0" Register="0"/>
+        <COLOR NAME="green 400" CMYK="#72006d44" Spot="0" Register="0"/>
+        <COLOR NAME="green 50" CMYK="#0c000c0a" Spot="0" Register="0"/>
+        <COLOR NAME="green 500" CMYK="#9100894f" Spot="0" Register="0"/>
+        <COLOR NAME="green 600" CMYK="#93008e5e" Spot="0" Register="0"/>
+        <COLOR NAME="green 700" CMYK="#9b009370" Spot="0" Register="0"/>
+        <COLOR NAME="green 800" CMYK="#a0009882" Spot="0" Register="0"/>
+        <COLOR NAME="green 900" CMYK="#b500a8a0" Spot="0" Register="0"/>
+        <COLOR NAME="green a100" CMYK="#3f002d0a" Spot="0" Register="0"/>
+        <COLOR NAME="green a200" CMYK="#8e00440f" Spot="0" Register="0"/>
+        <COLOR NAME="green a400" CMYK="#fe007c19" Spot="0" Register="0"/>
+        <COLOR NAME="green a700" CMYK="#fe009638" Spot="0" Register="0"/>
+        <COLOR NAME="grey 100" CMYK="#0000000a" Spot="0" Register="0"/>
+        <COLOR NAME="grey 200" CMYK="#00000011" Spot="0" Register="0"/>
+        <COLOR NAME="grey 300" CMYK="#0000001e" Spot="0" Register="0"/>
+        <COLOR NAME="grey 400" CMYK="#00000042" Spot="0" Register="0"/>
+        <COLOR NAME="grey 50" CMYK="#00000005" Spot="0" Register="0"/>
+        <COLOR NAME="grey 500" CMYK="#00000060" Spot="0" Register="0"/>
+        <COLOR NAME="grey 600" CMYK="#00000089" Spot="0" Register="0"/>
+        <COLOR NAME="grey 700" CMYK="#0000009e" Spot="0" Register="0"/>
+        <COLOR NAME="grey 800" CMYK="#000000bc" Spot="0" Register="0"/>
+        <COLOR NAME="grey 900" CMYK="#000000dd" Spot="0" Register="0"/>
+        <COLOR NAME="indigo 100" CMYK="#26210016" Spot="0" Register="0"/>
+        <COLOR NAME="indigo 200" CMYK="#443a0026" Spot="0" Register="0"/>
+        <COLOR NAME="indigo 300" CMYK="#66560033" Spot="0" Register="0"/>
+        <COLOR NAME="indigo 400" CMYK="#8470003f" Spot="0" Register="0"/>
+        <COLOR NAME="indigo 50" CMYK="#0f0c000a" Spot="0" Register="0"/>
+        <COLOR NAME="indigo 500" CMYK="#a58c0049" Spot="0" Register="0"/>
+        <COLOR NAME="indigo 600" CMYK="#aa910054" Spot="0" Register="0"/>
+        <COLOR NAME="indigo 700" CMYK="#b2980060" Spot="0" Register="0"/>
+        <COLOR NAME="indigo 800" CMYK="#baa3006b" Spot="0" Register="0"/>
+        <COLOR NAME="indigo 900" CMYK="#c9b70082" Spot="0" Register="0"/>
+        <COLOR NAME="indigo a100" CMYK="#72600000" Spot="0" Register="0"/>
+        <COLOR NAME="indigo a200" CMYK="#aa910000" Spot="0" Register="0"/>
+        <COLOR NAME="indigo a400" CMYK="#c1a50000" Spot="0" Register="0"/>
+        <COLOR NAME="indigo a700" CMYK="#ceaf0000" Spot="0" Register="0"/>
+        <COLOR NAME="light-blue 100" CMYK="#49160002" Spot="0" Register="0"/>
+        <COLOR NAME="light-blue 200" CMYK="#7a260005" Spot="0" Register="0"/>
+        <COLOR NAME="light-blue 300" CMYK="#ad350007" Spot="0" Register="0"/>
+        <COLOR NAME="light-blue 400" CMYK="#d342000a" Spot="0" Register="0"/>
+        <COLOR NAME="light-blue 50" CMYK="#1c0a0000" Spot="0" Register="0"/>
+        <COLOR NAME="light-blue 500" CMYK="#fc4f000a" Spot="0" Register="0"/>
+        <COLOR NAME="light-blue 600" CMYK="#fc510019" Spot="0" Register="0"/>
+        <COLOR NAME="light-blue 700" CMYK="#fc59002d" Spot="0" Register="0"/>
+        <COLOR NAME="light-blue 800" CMYK="#fc5e0042" Spot="0" Register="0"/>
+        <COLOR NAME="light-blue 900" CMYK="#fc700063" Spot="0" Register="0"/>
+        <COLOR NAME="light-blue a100" CMYK="#7f260000" Spot="0" Register="0"/>
+        <COLOR NAME="light-blue a200" CMYK="#bf3a0000" Spot="0" Register="0"/>
+        <COLOR NAME="light-blue a400" CMYK="#fe4f0000" Spot="0" Register="0"/>
+        <COLOR NAME="light-blue a700" CMYK="#fe600014" Spot="0" Register="0"/>
+        <COLOR NAME="light-green 100" CMYK="#11002811" Spot="0" Register="0"/>
+        <COLOR NAME="light-green 200" CMYK="#1e00441e" Spot="0" Register="0"/>
+        <COLOR NAME="light-green 300" CMYK="#2d006328" Spot="0" Register="0"/>
+        <COLOR NAME="light-green 400" CMYK="#3d007f33" Spot="0" Register="0"/>
+        <COLOR NAME="light-green 50" CMYK="#07000f07" Spot="0" Register="0"/>
+        <COLOR NAME="light-green 500" CMYK="#49009e3d" Spot="0" Register="0"/>
+        <COLOR NAME="light-green 600" CMYK="#4f00a04c" Spot="0" Register="0"/>
+        <COLOR NAME="light-green 700" CMYK="#5900a560" Spot="0" Register="0"/>
+        <COLOR NAME="light-green 800" CMYK="#6300a872" Spot="0" Register="0"/>
+        <COLOR NAME="light-green 900" CMYK="#8200b596" Spot="0" Register="0"/>
+        <COLOR NAME="light-green a100" CMYK="#33007000" Spot="0" Register="0"/>
+        <COLOR NAME="light-green a200" CMYK="#4c00a500" Spot="0" Register="0"/>
+        <COLOR NAME="light-green a400" CMYK="#8900fc00" Spot="0" Register="0"/>
+        <COLOR NAME="light-green a700" CMYK="#8c00e521" Spot="0" Register="0"/>
+        <COLOR NAME="lime 100" CMYK="#0500330a" Spot="0" Register="0"/>
+        <COLOR NAME="lime 200" CMYK="#07005611" Spot="0" Register="0"/>
+        <COLOR NAME="lime 300" CMYK="#0c007c16" Spot="0" Register="0"/>
+        <COLOR NAME="lime 400" CMYK="#0f009b1e" Spot="0" Register="0"/>
+        <COLOR NAME="lime 50" CMYK="#02001405" Spot="0" Register="0"/>
+        <COLOR NAME="lime 500" CMYK="#1100bc23" Spot="0" Register="0"/>
+        <COLOR NAME="lime 600" CMYK="#0c00bf35" Spot="0" Register="0"/>
+        <COLOR NAME="lime 700" CMYK="#0700c149" Spot="0" Register="0"/>
+        <COLOR NAME="lime 800" CMYK="#0002c460" Spot="0" Register="0"/>
+        <COLOR NAME="lime 900" CMYK="#0014d17c" Spot="0" Register="0"/>
+        <COLOR NAME="lime a100" CMYK="#0a007c00" Spot="0" Register="0"/>
+        <COLOR NAME="lime a200" CMYK="#1100bf00" Spot="0" Register="0"/>
+        <COLOR NAME="lime a400" CMYK="#3800fe00" Spot="0" Register="0"/>
+        <COLOR NAME="lime a700" CMYK="#4200fe14" Spot="0" Register="0"/>
+        <COLOR NAME="orange 100" CMYK="#001e4c00" Spot="0" Register="0"/>
+        <COLOR NAME="orange 200" CMYK="#00337f00" Spot="0" Register="0"/>
+        <COLOR NAME="orange 300" CMYK="#0047b200" Spot="0" Register="0"/>
+        <COLOR NAME="orange 400" CMYK="#0059d800" Spot="0" Register="0"/>
+        <COLOR NAME="orange 50" CMYK="#000c1e00" Spot="0" Register="0"/>
+        <COLOR NAME="orange 500" CMYK="#0066fe00" Spot="0" Register="0"/>
+        <COLOR NAME="orange 600" CMYK="#0070fe05" Spot="0" Register="0"/>
+        <COLOR NAME="orange 700" CMYK="#007cfe0a" Spot="0" Register="0"/>
+        <COLOR NAME="orange 800" CMYK="#008cfe0f" Spot="0" Register="0"/>
+        <COLOR NAME="orange 900" CMYK="#00a5fe19" Spot="0" Register="0"/>
+        <COLOR NAME="orange a100" CMYK="#002d7f00" Spot="0" Register="0"/>
+        <COLOR NAME="orange a200" CMYK="#0054bf00" Spot="0" Register="0"/>
+        <COLOR NAME="orange a400" CMYK="#006dfe00" Spot="0" Register="0"/>
+        <COLOR NAME="orange a700" CMYK="#0091fe00" Spot="0" Register="0"/>
+        <COLOR NAME="pink 100" CMYK="#003f2807" Spot="0" Register="0"/>
+        <COLOR NAME="pink 200" CMYK="#0068440a" Spot="0" Register="0"/>
+        <COLOR NAME="pink 300" CMYK="#0096630f" Spot="0" Register="0"/>
+        <COLOR NAME="pink 400" CMYK="#00ba7a11" Spot="0" Register="0"/>
+        <COLOR NAME="pink 50" CMYK="#00190f02" Spot="0" Register="0"/>
+        <COLOR NAME="pink 500" CMYK="#00dd9316" Spot="0" Register="0"/>
+        <COLOR NAME="pink 600" CMYK="#00e08e26" Spot="0" Register="0"/>
+        <COLOR NAME="pink 700" CMYK="#00e0873d" Spot="0" Register="0"/>
+        <COLOR NAME="pink 800" CMYK="#00e07f51" Spot="0" Register="0"/>
+        <COLOR NAME="pink 900" CMYK="#00e56b77" Spot="0" Register="0"/>
+        <COLOR NAME="pink a100" CMYK="#007f5400" Spot="0" Register="0"/>
+        <COLOR NAME="pink a200" CMYK="#00bf7c00" Spot="0" Register="0"/>
+        <COLOR NAME="pink a400" CMYK="#00fea30a" Spot="0" Register="0"/>
+        <COLOR NAME="pink a700" CMYK="#00e87f3a" Spot="0" Register="0"/>
+        <COLOR NAME="purple 100" CMYK="#072d0016" Spot="0" Register="0"/>
+        <COLOR NAME="purple 200" CMYK="#0c510026" Spot="0" Register="0"/>
+        <COLOR NAME="purple 300" CMYK="#117a0038" Spot="0" Register="0"/>
+        <COLOR NAME="purple 400" CMYK="#169e0042" Spot="0" Register="0"/>
+        <COLOR NAME="purple 50" CMYK="#0211000a" Spot="0" Register="0"/>
+        <COLOR NAME="purple 500" CMYK="#1cc6004f" Spot="0" Register="0"/>
+        <COLOR NAME="purple 600" CMYK="#28c90054" Spot="0" Register="0"/>
+        <COLOR NAME="purple 700" CMYK="#3dce005b" Spot="0" Register="0"/>
+        <COLOR NAME="purple 800" CMYK="#4fd10066" Spot="0" Register="0"/>
+        <COLOR NAME="purple 900" CMYK="#77db0072" Spot="0" Register="0"/>
+        <COLOR NAME="purple a100" CMYK="#117c0002" Spot="0" Register="0"/>
+        <COLOR NAME="purple a200" CMYK="#1cbf0005" Spot="0" Register="0"/>
+        <COLOR NAME="purple a400" CMYK="#23fe0005" Spot="0" Register="0"/>
+        <COLOR NAME="purple a700" CMYK="#54fe0000" Spot="0" Register="0"/>
+        <COLOR NAME="red 100" CMYK="#00332d00" Spot="0" Register="0"/>
+        <COLOR NAME="red 200" CMYK="#005b5b0f" Spot="0" Register="0"/>
+        <COLOR NAME="red 300" CMYK="#007f7f19" Spot="0" Register="0"/>
+        <COLOR NAME="red 400" CMYK="#00a5aa0f" Spot="0" Register="0"/>
+        <COLOR NAME="red 50" CMYK="#00141100" Spot="0" Register="0"/>
+        <COLOR NAME="red 500" CMYK="#00bac60a" Spot="0" Register="0"/>
+        <COLOR NAME="red 600" CMYK="#00bfc419" Spot="0" Register="0"/>
+        <COLOR NAME="red 700" CMYK="#00c6c62b" Spot="0" Register="0"/>
+        <COLOR NAME="red 800" CMYK="#00cccc38" Spot="0" Register="0"/>
+        <COLOR NAME="red 900" CMYK="#00d8d847" Spot="0" Register="0"/>
+        <COLOR NAME="red a100" CMYK="#00757f00" Spot="0" Register="0"/>
+        <COLOR NAME="red a200" CMYK="#00adad00" Spot="0" Register="0"/>
+        <COLOR NAME="red a400" CMYK="#00e8ba00" Spot="0" Register="0"/>
+        <COLOR NAME="red a700" CMYK="#00fefe28" Spot="0" Register="0"/>
+        <COLOR NAME="teal 100" CMYK="#33000521" Spot="0" Register="0"/>
+        <COLOR NAME="teal 200" CMYK="#5e000733" Spot="0" Register="0"/>
+        <COLOR NAME="teal 300" CMYK="#93000c49" Spot="0" Register="0"/>
+        <COLOR NAME="teal 400" CMYK="#c4001159" Spot="0" Register="0"/>
+        <COLOR NAME="teal 50" CMYK="#1100000c" Spot="0" Register="0"/>
+        <COLOR NAME="teal 500" CMYK="#fe001668" Spot="0" Register="0"/>
+        <COLOR NAME="teal 600" CMYK="#fe001975" Spot="0" Register="0"/>
+        <COLOR NAME="teal 700" CMYK="#fe001e87" Spot="0" Register="0"/>
+        <COLOR NAME="teal 800" CMYK="#fe001e96" Spot="0" Register="0"/>
+        <COLOR NAME="teal 900" CMYK="#fe002bb2" Spot="0" Register="0"/>
+        <COLOR NAME="teal a100" CMYK="#59001400" Spot="0" Register="0"/>
+        <COLOR NAME="teal a200" CMYK="#9b002600" Spot="0" Register="0"/>
+        <COLOR NAME="teal a400" CMYK="#e0003816" Spot="0" Register="0"/>
+        <COLOR NAME="teal a700" CMYK="#fe00233f" Spot="0" Register="0"/>
+        <COLOR NAME="yellow 100" CMYK="#00053a00" Spot="0" Register="0"/>
+        <COLOR NAME="yellow 200" CMYK="#000a6000" Spot="0" Register="0"/>
+        <COLOR NAME="yellow 300" CMYK="#000c8900" Spot="0" Register="0"/>
+        <COLOR NAME="yellow 400" CMYK="#0011a500" Spot="0" Register="0"/>
+        <COLOR NAME="yellow 50" CMYK="#00021600" Spot="0" Register="0"/>
+        <COLOR NAME="yellow 500" CMYK="#0014c400" Spot="0" Register="0"/>
+        <COLOR NAME="yellow 600" CMYK="#0026c902" Spot="0" Register="0"/>
+        <COLOR NAME="yellow 700" CMYK="#003dd105" Spot="0" Register="0"/>
+        <COLOR NAME="yellow 800" CMYK="#0054d805" Spot="0" Register="0"/>
+        <COLOR NAME="yellow 900" CMYK="#007ae80a" Spot="0" Register="0"/>
+        <COLOR NAME="yellow a100" CMYK="#00007200" Spot="0" Register="0"/>
+        <COLOR NAME="yellow a200" CMYK="#0000fe00" Spot="0" Register="0"/>
+        <COLOR NAME="yellow a400" CMYK="#0014fe00" Spot="0" Register="0"/>
+        <COLOR NAME="yellow a700" CMYK="#0028fe00" Spot="0" Register="0"/>
+        <HYPHEN/>
+        <STYLE NAME="Default Paragraph Style" ALIGN="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0"/>
+        <CHARSTYLE CNAME="Default Character Style" FONT="Arial Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="English"/>
+        <LAYERS NUMMER="0" LEVEL="0" NAME="Hintergrund" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
+        <Printer firstUse="1" toFile="0" useAltPrintCommand="0" outputSeparations="0" useSpotColors="0" useColor="0" mirrorH="0" mirrorV="0" useICC="1" doGCR="0" doClip="0" setDevParam="0" useDocBleeds="0" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" includePDFMarks="0" PSLevel="0" PDLanguage="0" markOffset="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="" filename="" separationName="" printerCommand=""/>
+        <PDF firstUse="1" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="0" Quality="0" EmbedPDF="0" MirrorH="0" MirrorV="0" Clip="0" RotateDeg="0" PresentMode="0" RecalcPic="0" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="1" Intent2="0" SolidP="CineonLog M " ImageP="CineonLog M " PrintP="Fogra27L CMYK Coated Press" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" PageLayout="0" openAction="">
+            <LPI Color="Black" Frequency="133" Angle="45" SpotFunction="3"/>
+            <LPI Color="Cyan" Frequency="133" Angle="105" SpotFunction="3"/>
+            <LPI Color="Magenta" Frequency="133" Angle="75" SpotFunction="3"/>
+            <LPI Color="Yellow" Frequency="133" Angle="90" SpotFunction="3"/>
+        </PDF>
+        <DocItemAttributes/>
+        <TablesOfContents/>
+        <PageSets>
+            <Set Name="Single Page" FirstPage="0" Rows="1" Columns="1"/>
+            <Set Name="Double Sided" FirstPage="1" Rows="1" Columns="2">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="3-Fold" FirstPage="0" Rows="1" Columns="3">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="4-Fold" FirstPage="0" Rows="1" Columns="4">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle Left"/>
+                <PageNames Name="Middle Right"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+        </PageSets>
+        <Sections>
+            <Section Number="0" Name="0" From="0" To="0" Type="Type_1_2_3" Start="1" Reversed="0" Active="1"/>
+        </Sections>
+        <MASTERPAGE PAGEXPOS="100" PAGEYPOS="20" PAGEWIDTH="595.28" PAGEHEIGHT="841.89" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="0" NAM="Normal" MNAM="" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="20" PAGEWIDTH="595.28" PAGEHEIGHT="841.89" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="0" NAM="" MNAM="Normal" Size="A4" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="151.5" YPOS="98.25" WIDTH="486.75" HEIGHT="186.75" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 486.75 0 486.75 0 486.75 0 486.75 0 486.75 186.75 486.75 186.75 486.75 186.75 486.75 186.75 0 186.75 0 186.75 0 186.75 0 186.75 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 486.75 0 486.75 0 486.75 0 486.75 0 486.75 186.75 486.75 186.75 486.75 186.75 486.75 186.75 0 186.75 0 186.75 0 186.75 0 186.75 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="Dieses Dokument enthält alle Farben der MaterialColor Palette von Google"/>
+            <breakline/>
+            <ITEXT CH="https://material.io/guidelines/style/color.html#color-color-palette"/>
+            <para/>
+            <para/>
+            <ITEXT CH="Um die Farben für das eigene Scribusprojekt zu nutzen einfach "/>
+            <para/>
+            <ITEXT CH="Bearbeiten &gt; Farben &gt; Importieren wählen und dann diese Scribus Datei importieren."/>
+            <para/>
+            <para/>
+            <para/>
+            <ITEXT CH="Dieses Dokument ist Teil des Ennoia Projektes http://ennoia.ruach.jetzt"/>
+            <para/>
+            <ITEXT CH="und steht unter der (cc 4.0) by-sa / https://creativecommons.org/licenses/by-sa/4.0/deed.de"/>
+            <para/>
+            <para/>
+            <para/>
+            <ITEXT CH="https://github.com/sigmahlm/ennoia"/>
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+    </DOCUMENT>
+</SCRIBUSUTF8NEW>
